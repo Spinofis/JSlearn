@@ -23,8 +23,8 @@ const person2 = {
 		return this.firstName + this.lastName;
 	}
 }
-console.log(person2.fullName());
+console.log(person2.fullName2);
 function test1(){
-	let firstName:'jhon',
-	let lastName:'doe',
+	let firstName='jhon'
+	let lastName='doe'
 }
